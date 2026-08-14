@@ -1,4 +1,4 @@
-# Re-Edited Forked Not GroupMaker Community by Tip
+# Not GroupMaker Community by Owner
 
 This edited repository is for GroupMaker Community, an internet Windows assignment management application paired with an international entrepreneurship strategic business simulation game (GEO). GroupMaker Community is available from the [Microsoft Store](https://www.microsoft.com/store/apps/9NK50R9QSMFR) (recommended) and an [alternative website](http://geobusinessgame.com/groupapp/community/publish.htm). The alternative website enables launch without installation and installation with prerequisites, necessary when working on public computers that disallow normal installation and on older versions of Windows, but the process requires several steps impeded by warnings. Respond to warnings by allowing the process to continue, such as by clicking on the More-info link and selecting the Run-anyway button. For instructions on accessing GroupMaker Community, see the Description on the download page of GroupMaker Community from the [Microsoft Store](https://www.microsoft.com/store/apps/9NK50R9QSMFR).
 
